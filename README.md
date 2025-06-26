@@ -1,7 +1,7 @@
 ## Aoa 👋 I'm Bilal Butt.
 
 # 💫 About Me:
- I'm Working on Web Development.<br>I'm Currently Learning JavaScript and node.js
+ I'm Working on Web Development.<br>I'm Currently Learning JavaScript and Node.js
 
 
 ## 🌐 Socials:
