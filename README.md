@@ -26,7 +26,7 @@
       <img alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Programming-with-Bilal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" height="192px"/>
     </a>
     <br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Programming-with-Bilal&theme=radical&hide_border=false)
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=Programming-with-Bilal&theme=radical&hide_border=false)  <!-- THE ISSUE IS HERE -->
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-with-Bilal&theme=radical&hide_border=false&layout=compact&show_icons=true" height="192px"/>
   </p>
