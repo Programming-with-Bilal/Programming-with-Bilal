@@ -11,7 +11,7 @@
 
 - 🔥 I’m a **Programmer**  
 - 💻 I'm Working on **Web Development**  
-- 💫 Currently mastering **JavaScript**
+- 💫 Currently mastering **Backend**
 
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilalbutt_02) 
