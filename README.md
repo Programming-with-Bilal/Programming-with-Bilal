@@ -1,4 +1,10 @@
-# Aoa 👋 I'm Bilal Butt.
+# Hello 👋 I'm Bilal Butt.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Bilal%20Butt&fontSize=100&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=20" />
+</div>
+
+
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -9,27 +15,49 @@
   </a>
 </p>
 
-- 🔥 I’m a **Programmer**  
-- 💻 I'm Working on **Web Development**  
-- 💫 Currently mastering **Backend**
-
-## 🌐 Socials :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilalbutt_02) 
-
-# ⚡ Skills </> :
+- 🔥 **Passionate Programmer** crafting clean, purposeful code with a touch of elegance
+- 💻 **Focused on Web Development** with real-world impact 
+- 🎯 **Mastering the Art of Backend Engineering** to build scalable systems                                                                           
 
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-## 🛠️ **Technology Arsenal**
+
+
+## 🌐 Let's Connect :
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://instagram.com/bilalbutt_02" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" 
+    alt="Instagram" 
+    style="height: 30px;" 
+  />
+</a>
+
+
+<div align="center">
+  <h1>⚡ Skills &lt;/&gt;</h1>
+</div>
+
+
+
+
+
+## 🚀 **Technology Arsenal** : 
 
 <div align="center">
 
-### **Frontend Universe** 🎨
+### **Frontend Universe** 🖥️
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma&theme=dark" />
 </p>
 
-### **Backend Powerhouse** ⚡
+### **Backend Powerhouse** ⚛️
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
 </p>
@@ -55,20 +83,17 @@
 
 
 
- 
-<h2> 📊 GitHub Stats (Expand to View) </h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" />
+</div>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Programming-with-Bilal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" height="192px"/>
-    </a>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-with-Bilal&theme=radical&hide_border=false&layout=compact&show_icons=true" height="192px"/>
-  </p>
-</details>
 
----
-[![](https://visitcount.itsvg.in/api?id=Programming-with-Bilal&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Keep%20Coding,%20Keep%20Growing!&descSize=16&descAlignY=75" />
+</div>
+
+
+
