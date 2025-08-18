@@ -45,7 +45,7 @@
 
 
 
-## 🚀 **Technology Arsenal** : 
+## 🚀 *Technology Arsenal* : 
 
 <div align="center">
 
