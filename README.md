@@ -1,17 +1,14 @@
-# Hello 👋 I'm Bilal Butt.
+# Hello! 👋 I'm Bilal Butt.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Bilal%20Butt&fontSize=100&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=20" />
+<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Bilal%20Butt&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=%F0%9F%96%A5%EF%B8%8F%20Full%20Stack%20Developer%20%7C%20Frontend%20Specialist%20%F0%9F%AA%90&descAlignY=55&descSize=19"/> 
 </div>
-
-
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=IBM+Plex+Sans&size=35&weight=700&center=true&vCenter=true&color=3BC9F3&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer." />
-</h1>
-
+      <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=35&weight=700&center=true&vCenter=true&color=00F700&width=600&height=70&duration=4000&lines=%3E+Hello+World!;%3E+Welcome+to+my+GitHub+Profile!;%3E+I'm+a+Web+Developer.;%3E+Ready+to+code+..." />
+    </h1>
   </a>
 </p>
 
