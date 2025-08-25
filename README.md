@@ -45,39 +45,52 @@
 
 
 
-## 🚀 *Technology Arsenal* : 
+# 🚀 *Technology Arsenal*
 
 <div align="center">
 
-### **Frontend Universe** 🖥️
+## **Frontend Universe** 🖥️
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
 </p>
 
-### **Backend Powerhouse** ⚛️
+## **Backend Powerhouse** ⚛️
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
 </p>
 
-### **Development Tools** 🔧
+## **Development Tools** 🔧
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,npm&theme=dark" />
 </p>
 
-### **Template Engines & Utilities** 📦
+## **Template Engines & Utilities** 📦
 <p>
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
   <img src="https://img.shields.io/badge/RESTful_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
+## **Additional Skills** ✨
+<p>
+  <img src="https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Integration-2196F3?style=for-the-badge&logo=swagger&logoColor=white" />
+</p>
+
 </div>
+
+<br>
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
+<br>
+<br>
+<br>
 
 
 <div align="center">
