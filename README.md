@@ -51,17 +51,17 @@
 
 ## **Frontend Universe** 🖥️
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,bootstrap,tailwind&theme=dark" />
 </p>
 
 ## **Backend Powerhouse** ⚛️
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
 ## **Development Tools** 🔧
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman&theme=dark" />
 </p>
 
 ## **Template Engines & Utilities** 📦
