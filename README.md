@@ -1,14 +1,14 @@
 # Hello! 👋 I'm Bilal Butt.
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" alt="Header" />
-</p>
+</p> -->
 
 
-<!-- <div align="center"> 
+<div align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Bilal%20Butt&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=%F0%9F%96%A5%EF%B8%8F%20Full%20Stack%20Developer%20%7C%20Frontend%20Specialist%20%F0%9F%AA%90&descAlignY=55&descSize=19"/> 
-</div> -->
+</div>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
