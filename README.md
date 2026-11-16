@@ -62,7 +62,7 @@
 
 ## **Backend Powerhouse** ⚛️
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,nodejs,express,mongodb&theme=dark" />
 </p>
 
 ## **Development Tools** 🔧
